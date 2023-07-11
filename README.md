@@ -42,3 +42,6 @@ Feel free to make any changes to the code to suit your preferences or add more f
 
 The Joke Chrome Extension makes use of the 'https://icanhazdadjoke.com/slack' API to retrieve random dad jokes.
 
+#### Screenshot
+
+<img src="https://i.imgur.com/GYMSQOs.jpg" height="200" width="500" >
